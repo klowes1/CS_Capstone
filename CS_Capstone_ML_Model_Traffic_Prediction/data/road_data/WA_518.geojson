@@ -1,0 +1,2448 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2024-09-24T17:21:05Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/4759195",
+        "bicycle": "no",
+        "destination": "Renton",
+        "destination:ref": "I 405 North",
+        "highway": "motorway_link",
+        "lanes": "1",
+        "lit": "yes",
+        "maxheight": "default",
+        "maxspeed": "60 mph",
+        "oneway": "yes",
+        "ref": "WA 518",
+        "surface": "concrete"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.2673011,
+            47.461756
+          ],
+          [
+            -122.2670858,
+            47.4616759
+          ],
+          [
+            -122.2666621,
+            47.461549
+          ],
+          [
+            -122.2662544,
+            47.4614728
+          ],
+          [
+            -122.2658547,
+            47.4614184
+          ],
+          [
+            -122.2652282,
+            47.4613952
+          ],
+          [
+            -122.2647499,
+            47.4614317
+          ],
+          [
+            -122.2643414,
+            47.4614904
+          ],
+          [
+            -122.2635123,
+            47.4616893
+          ],
+          [
+            -122.2632604,
+            47.4617781
+          ],
+          [
+            -122.2629638,
+            47.4618982
+          ],
+          [
+            -122.2621298,
+            47.4622643
+          ],
+          [
+            -122.2618188,
+            47.4623973
+          ]
+        ]
+      },
+      "id": "way/4759195"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/6460550",
+        "bicycle": "no",
+        "highway": "motorway",
+        "lanes": "3",
+        "lit": "yes",
+        "maxheight": "default",
+        "maxspeed": "60 mph",
+        "oneway": "yes",
+        "ref": "WA 518",
+        "source": "Yahoo,TIGER",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.2834921,
+            47.4631817
+          ],
+          [
+            -122.2841307,
+            47.4630476
+          ],
+          [
+            -122.2845948,
+            47.462997
+          ],
+          [
+            -122.2849386,
+            47.4629707
+          ],
+          [
+            -122.2852683,
+            47.4629624
+          ],
+          [
+            -122.285753,
+            47.4629691
+          ],
+          [
+            -122.2861939,
+            47.4630069
+          ],
+          [
+            -122.2866708,
+            47.463076
+          ],
+          [
+            -122.2872048,
+            47.4631678
+          ],
+          [
+            -122.2889878,
+            47.4634651
+          ],
+          [
+            -122.2894553,
+            47.4635227
+          ],
+          [
+            -122.2899741,
+            47.463571
+          ],
+          [
+            -122.2903959,
+            47.4635931
+          ],
+          [
+            -122.2931299,
+            47.463624
+          ]
+        ]
+      },
+      "id": "way/6460550"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/23622871",
+        "bicycle": "no",
+        "bridge": "yes",
+        "highway": "motorway",
+        "lanes": "3",
+        "layer": "1",
+        "lit": "yes",
+        "maxspeed": "60 mph",
+        "oneway": "yes",
+        "ref": "WA 518",
+        "source": "Yahoo",
+        "surface": "concrete"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.2814687,
+            47.4639133
+          ],
+          [
+            -122.280867,
+            47.4643198
+          ]
+        ]
+      },
+      "id": "way/23622871"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/23622872",
+        "bicycle": "no",
+        "destination:lanes": "Seattle|Renton|Tacoma;Portland;51st Avenue South;Southcenter Parkway",
+        "highway": "motorway",
+        "lanes": "3",
+        "lit": "yes",
+        "maxspeed": "60 mph",
+        "oneway": "yes",
+        "ref": "WA 518",
+        "surface": "concrete",
+        "turn:lanes": "none|none|through;slight_right"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.280867,
+            47.4643198
+          ],
+          [
+            -122.2799693,
+            47.4648594
+          ],
+          [
+            -122.2795487,
+            47.4650857
+          ],
+          [
+            -122.2789737,
+            47.4653236
+          ],
+          [
+            -122.2782956,
+            47.4655267
+          ],
+          [
+            -122.2778235,
+            47.4656311
+          ],
+          [
+            -122.2773343,
+            47.4656892
+          ],
+          [
+            -122.2767077,
+            47.4657066
+          ],
+          [
+            -122.2761498,
+            47.4656892
+          ],
+          [
+            -122.2756606,
+            47.4656427
+          ],
+          [
+            -122.2751714,
+            47.4655499
+          ],
+          [
+            -122.2746392,
+            47.4654164
+          ],
+          [
+            -122.2740298,
+            47.4652134
+          ],
+          [
+            -122.2733593,
+            47.4648826
+          ]
+        ]
+      },
+      "id": "way/23622872"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/23622873",
+        "bicycle": "no",
+        "bridge": "yes",
+        "highway": "motorway",
+        "lanes": "3",
+        "layer": "1",
+        "lit": "yes",
+        "maxspeed": "60 mph",
+        "oneway": "yes",
+        "ref": "WA 518",
+        "surface": "concrete"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.280867,
+            47.4644757
+          ],
+          [
+            -122.2814679,
+            47.4640804
+          ]
+        ]
+      },
+      "id": "way/23622873"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/23723884",
+        "bicycle": "no",
+        "bridge": "yes",
+        "highway": "motorway",
+        "lanes": "2",
+        "layer": "1",
+        "lit": "yes",
+        "maxspeed": "60 mph",
+        "oneway": "yes",
+        "ref": "WA 518",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.2943459,
+            47.4635248
+          ],
+          [
+            -122.2933331,
+            47.4634958
+          ]
+        ]
+      },
+      "id": "way/23723884"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/23723885",
+        "bicycle": "no",
+        "highway": "motorway",
+        "lanes": "2",
+        "lit": "yes",
+        "maxheight": "default",
+        "maxspeed": "60 mph",
+        "oneway": "yes",
+        "ref": "WA 518",
+        "source": "Yahoo",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.2933331,
+            47.4634958
+          ],
+          [
+            -122.2907496,
+            47.4635016
+          ],
+          [
+            -122.2897969,
+            47.4634436
+          ],
+          [
+            -122.2889901,
+            47.4633507
+          ],
+          [
+            -122.2882646,
+            47.4632209
+          ],
+          [
+            -122.2878917,
+            47.4631321
+          ]
+        ]
+      },
+      "id": "way/23723885"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/23723886",
+        "bicycle": "no",
+        "bridge": "yes",
+        "highway": "motorway",
+        "lanes": "3",
+        "layer": "1",
+        "lit": "yes",
+        "maxspeed": "60 mph",
+        "oneway": "yes",
+        "ref": "WA 518",
+        "surface": "asphalt",
+        "tiger:cfcc": "A11",
+        "tiger:county": "King, WA",
+        "tiger:name_base": "State Route 518"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.2931299,
+            47.463624
+          ],
+          [
+            -122.2943237,
+            47.463661
+          ]
+        ]
+      },
+      "id": "way/23723886"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/23723887",
+        "bicycle": "no",
+        "highway": "motorway",
+        "lanes": "3",
+        "maxheight": "default",
+        "maxspeed": "60 mph",
+        "oneway": "yes",
+        "ref": "WA 518",
+        "surface": "asphalt",
+        "tiger:cfcc": "A11",
+        "tiger:county": "King, WA",
+        "tiger:name_base": "State Route 518"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.2943237,
+            47.463661
+          ],
+          [
+            -122.294979,
+            47.4637195
+          ],
+          [
+            -122.2957118,
+            47.4638349
+          ],
+          [
+            -122.2964214,
+            47.4639876
+          ],
+          [
+            -122.2967693,
+            47.4640918
+          ]
+        ]
+      },
+      "id": "way/23723887"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/23724376",
+        "bicycle": "yes",
+        "bridge": "yes",
+        "highway": "motorway",
+        "lanes": "2",
+        "layer": "1",
+        "maxspeed": "60 mph",
+        "oneway": "yes",
+        "ref": "WA 518",
+        "tiger:cfcc": "A11",
+        "tiger:county": "King, WA",
+        "tiger:name_base": "State Route 518"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.3183532,
+            47.4702405
+          ],
+          [
+            -122.319322,
+            47.470199
+          ]
+        ]
+      },
+      "id": "way/23724376"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/23724377",
+        "bicycle": "yes",
+        "highway": "motorway",
+        "lanes": "2",
+        "maxspeed": "60 mph",
+        "oneway": "yes",
+        "ref": "WA 518",
+        "tiger:cfcc": "A11",
+        "tiger:county": "King, WA",
+        "tiger:name_base": "State Route 518"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.319322,
+            47.470199
+          ],
+          [
+            -122.3231279,
+            47.4700378
+          ]
+        ]
+      },
+      "id": "way/23724377"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/23724379",
+        "bicycle": "yes",
+        "bridge": "yes",
+        "highway": "motorway",
+        "lanes": "2",
+        "layer": "1",
+        "maxspeed": "60 mph",
+        "oneway": "yes",
+        "ref": "WA 518"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.3194378,
+            47.4700891
+          ],
+          [
+            -122.3184765,
+            47.4701193
+          ]
+        ]
+      },
+      "id": "way/23724379"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/23724380",
+        "bicycle": "yes",
+        "destination:lanes": "none|none|Seattle-Tacoma International Airport;South 154th Street",
+        "highway": "motorway",
+        "lanes": "3",
+        "maxheight": "default",
+        "maxspeed": "60 mph",
+        "oneway": "yes",
+        "ref": "WA 518",
+        "surface": "asphalt",
+        "turn:lanes": "none|none|through;slight_right"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.3136064,
+            47.470236
+          ],
+          [
+            -122.3129048,
+            47.4701682
+          ],
+          [
+            -122.3122109,
+            47.4700438
+          ],
+          [
+            -122.3118166,
+            47.4699573
+          ],
+          [
+            -122.3112729,
+            47.4698199
+          ],
+          [
+            -122.3103619,
+            47.4694896
+          ],
+          [
+            -122.3036672,
+            47.4668032
+          ]
+        ]
+      },
+      "id": "way/23724380"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/23724754",
+        "bicycle": "yes",
+        "bridge": "yes",
+        "highway": "motorway",
+        "lanes": "2",
+        "layer": "1",
+        "maxspeed": "60 mph",
+        "oneway": "yes",
+        "ref": "WA 518",
+        "surface": "concrete"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.3231279,
+            47.4700378
+          ],
+          [
+            -122.3238298,
+            47.4700099
+          ]
+        ]
+      },
+      "id": "way/23724754"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/23724755",
+        "bicycle": "yes",
+        "highway": "motorway",
+        "lanes": "3",
+        "maxspeed": "60 mph",
+        "oneway": "yes",
+        "ref": "WA 518",
+        "surface": "asphalt",
+        "turn:lanes": "||right"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.3256711,
+            47.4699478
+          ],
+          [
+            -122.3264223,
+            47.4699376
+          ],
+          [
+            -122.3268077,
+            47.4699516
+          ],
+          [
+            -122.3271467,
+            47.4699716
+          ]
+        ]
+      },
+      "id": "way/23724755"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/23724756",
+        "bicycle": "yes",
+        "bridge": "yes",
+        "highway": "motorway",
+        "lanes": "2",
+        "layer": "1",
+        "maxspeed": "60 mph",
+        "oneway": "yes",
+        "ref": "WA 518",
+        "surface": "concrete"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.3238202,
+            47.4699005
+          ],
+          [
+            -122.3231184,
+            47.4699293
+          ]
+        ]
+      },
+      "id": "way/23724756"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/23724757",
+        "bicycle": "yes",
+        "highway": "motorway",
+        "lanes": "2",
+        "maxspeed": "60 mph",
+        "oneway": "yes",
+        "ref": "WA 518",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.3231184,
+            47.4699293
+          ],
+          [
+            -122.3194378,
+            47.4700891
+          ]
+        ]
+      },
+      "id": "way/23724757"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/23724761",
+        "bridge": "yes",
+        "expressway": "yes",
+        "highway": "trunk",
+        "lanes": "3",
+        "layer": "1",
+        "maxweight:signed": "no",
+        "name": "State Route 518",
+        "oneway": "yes",
+        "ref": "WA 518",
+        "surface": "concrete",
+        "tiger:cfcc": "A11",
+        "tiger:county": "King, WA",
+        "tiger:name_base": "State Route 518",
+        "turn:lanes": "none|none|slight_right"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.3320839,
+            47.4703399
+          ],
+          [
+            -122.3317085,
+            47.4703007
+          ]
+        ]
+      },
+      "id": "way/23724761"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/23724762",
+        "expressway": "yes",
+        "highway": "trunk",
+        "lanes": "2",
+        "oneway": "yes",
+        "ref": "WA 518",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.33113,
+            47.4702381
+          ],
+          [
+            -122.3302273,
+            47.4701473
+          ],
+          [
+            -122.330018,
+            47.4701252
+          ]
+        ]
+      },
+      "id": "way/23724762"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/23724763",
+        "bridge": "yes",
+        "expressway": "yes",
+        "highway": "trunk",
+        "lanes": "4",
+        "layer": "1",
+        "maxspeed": "35 mph",
+        "maxweight:signed": "no",
+        "name": "State Route 518",
+        "oneway": "yes",
+        "ref": "WA 518",
+        "surface": "concrete",
+        "turn:lanes": "left|left|through|through"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.3311035,
+            47.4703505
+          ],
+          [
+            -122.3320574,
+            47.4704648
+          ]
+        ]
+      },
+      "id": "way/23724763"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/23724764",
+        "expressway": "yes",
+        "highway": "trunk",
+        "lanes": "4",
+        "maxspeed": "35 mph",
+        "name": "State Route 518",
+        "oneway": "yes",
+        "ref": "WA 518",
+        "surface": "asphalt",
+        "turn:lanes": "left|left|through|through"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.3320574,
+            47.4704648
+          ],
+          [
+            -122.332285,
+            47.4704975
+          ]
+        ]
+      },
+      "id": "way/23724764"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/94767449",
+        "bicycle": "yes",
+        "highway": "motorway",
+        "lanes": "2",
+        "maxspeed": "60 mph",
+        "oneway": "yes",
+        "ref": "WA 518",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.330018,
+            47.4701252
+          ],
+          [
+            -122.3294937,
+            47.4700734
+          ],
+          [
+            -122.3282971,
+            47.4699468
+          ]
+        ]
+      },
+      "id": "way/94767449"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/94767461",
+        "expressway": "yes",
+        "highway": "trunk",
+        "lanes": "2",
+        "lit": "yes",
+        "maxspeed": "35 mph",
+        "name": "State Route 518",
+        "oneway": "yes",
+        "ref": "WA 518",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.3302381,
+            47.4702599
+          ],
+          [
+            -122.3309729,
+            47.4703357
+          ]
+        ]
+      },
+      "id": "way/94767461"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/96003389",
+        "bicycle": "yes",
+        "highway": "motorway",
+        "lanes": "2",
+        "maxspeed": "35 mph",
+        "oneway": "yes",
+        "ref": "WA 518",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.328115,
+            47.4700519
+          ],
+          [
+            -122.3295692,
+            47.470197
+          ],
+          [
+            -122.3298729,
+            47.4702256
+          ],
+          [
+            -122.3302381,
+            47.4702599
+          ]
+        ]
+      },
+      "id": "way/96003389"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/124045513",
+        "bicycle": "no",
+        "highway": "motorway",
+        "lanes": "3",
+        "lit": "yes",
+        "maxspeed": "60 mph",
+        "oneway": "yes",
+        "ref": "WA 518",
+        "source": "Yahoo",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.2866638,
+            47.4629306
+          ],
+          [
+            -122.2865738,
+            47.4629158
+          ],
+          [
+            -122.2859456,
+            47.4628505
+          ],
+          [
+            -122.2855382,
+            47.462826
+          ],
+          [
+            -122.2850562,
+            47.462834
+          ],
+          [
+            -122.284645,
+            47.4628587
+          ],
+          [
+            -122.2842231,
+            47.4628942
+          ],
+          [
+            -122.2837698,
+            47.4629702
+          ],
+          [
+            -122.2831282,
+            47.4630859
+          ]
+        ]
+      },
+      "id": "way/124045513"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/124045514",
+        "bicycle": "no",
+        "highway": "motorway",
+        "lanes": "3",
+        "lit": "yes",
+        "maxspeed": "60 mph",
+        "oneway": "yes",
+        "ref": "WA 518",
+        "surface": "concrete"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.2758328,
+            47.4658241
+          ],
+          [
+            -122.2762174,
+            47.4658562
+          ],
+          [
+            -122.2767034,
+            47.4658625
+          ],
+          [
+            -122.2773461,
+            47.465833
+          ],
+          [
+            -122.2778286,
+            47.4657688
+          ],
+          [
+            -122.2783318,
+            47.4656779
+          ],
+          [
+            -122.2789358,
+            47.4654984
+          ],
+          [
+            -122.2793972,
+            47.4653135
+          ],
+          [
+            -122.2797995,
+            47.4651285
+          ],
+          [
+            -122.2801053,
+            47.4649653
+          ],
+          [
+            -122.280867,
+            47.4644757
+          ]
+        ]
+      },
+      "id": "way/124045514"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/124045515",
+        "bicycle": "no",
+        "highway": "motorway",
+        "lanes": "2",
+        "maxheight": "default",
+        "maxspeed": "60 mph",
+        "oneway": "yes",
+        "ref": "WA 518",
+        "surface": "asphalt",
+        "tiger:cfcc": "A11",
+        "tiger:county": "King, WA",
+        "tiger:name_base": "State Route 518"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.2984101,
+            47.4647469
+          ],
+          [
+            -122.3004639,
+            47.4657076
+          ],
+          [
+            -122.3010827,
+            47.4659707
+          ],
+          [
+            -122.3029249,
+            47.4666927
+          ],
+          [
+            -122.3033398,
+            47.4668736
+          ],
+          [
+            -122.3037368,
+            47.467064
+          ],
+          [
+            -122.3046356,
+            47.4675551
+          ]
+        ]
+      },
+      "id": "way/124045515"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/124045516",
+        "bicycle": "no",
+        "destination": "Renton",
+        "destination:ref": "I 405 North",
+        "highway": "motorway_link",
+        "lanes": "1",
+        "maxspeed": "60 mph",
+        "oneway": "yes",
+        "ref": "WA 518",
+        "surface": "concrete"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.2676889,
+            47.4618932
+          ],
+          [
+            -122.2673011,
+            47.461756
+          ]
+        ]
+      },
+      "id": "way/124045516"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/124940602",
+        "hgv": "designated",
+        "highway": "motorway",
+        "lanes": "2",
+        "lit": "yes",
+        "maxheight": "default",
+        "maxspeed": "60 mph",
+        "oneway": "yes",
+        "ref": "WA 518",
+        "surface": "concrete"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.2664162,
+            47.4626313
+          ],
+          [
+            -122.2667132,
+            47.4626138
+          ],
+          [
+            -122.2670967,
+            47.4625936
+          ],
+          [
+            -122.2674972,
+            47.4625994
+          ],
+          [
+            -122.2679206,
+            47.4626411
+          ],
+          [
+            -122.268321,
+            47.4626932
+          ],
+          [
+            -122.2687541,
+            47.4627944
+          ],
+          [
+            -122.269144,
+            47.4629029
+          ],
+          [
+            -122.2697234,
+            47.46313
+          ],
+          [
+            -122.2708907,
+            47.4637509
+          ],
+          [
+            -122.2723241,
+            47.4645169
+          ],
+          [
+            -122.2724786,
+            47.4646039
+          ]
+        ]
+      },
+      "id": "way/124940602"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/133397782",
+        "bicycle": "yes",
+        "highway": "motorway",
+        "lanes": "3",
+        "maxheight": "default",
+        "maxspeed": "60 mph",
+        "oneway": "yes",
+        "ref": "WA 518",
+        "surface": "asphalt",
+        "tiger:cfcc": "A11",
+        "tiger:county": "King, WA",
+        "tiger:name_base": "State Route 518",
+        "turn:lanes": "||right"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.3098859,
+            47.4696248
+          ],
+          [
+            -122.3100919,
+            47.4696944
+          ],
+          [
+            -122.3107628,
+            47.469909
+          ],
+          [
+            -122.3113965,
+            47.4700922
+          ],
+          [
+            -122.3120247,
+            47.4702299
+          ],
+          [
+            -122.3123683,
+            47.4702956
+          ],
+          [
+            -122.3125873,
+            47.4703277
+          ],
+          [
+            -122.3128375,
+            47.4703579
+          ]
+        ]
+      },
+      "id": "way/133397782"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/133397783",
+        "bicycle": "yes",
+        "fixme": "verify bicycle=yes",
+        "highway": "motorway",
+        "lanes": "3",
+        "maxheight": "default",
+        "maxspeed": "60 mph",
+        "oneway": "yes",
+        "ref": "WA 518",
+        "surface": "asphalt",
+        "turn:lanes": "||right"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.3028154,
+            47.4664664
+          ],
+          [
+            -122.3018393,
+            47.4660805
+          ],
+          [
+            -122.300808,
+            47.4656492
+          ],
+          [
+            -122.3004277,
+            47.465478
+          ]
+        ]
+      },
+      "id": "way/133397783"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/133397784",
+        "bicycle": "no",
+        "highway": "motorway",
+        "lanes": "2",
+        "maxheight": "default",
+        "maxspeed": "60 mph",
+        "oneway": "yes",
+        "ref": "WA 518",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.299884,
+            47.4652363
+          ],
+          [
+            -122.2974086,
+            47.4641421
+          ],
+          [
+            -122.2966286,
+            47.4638838
+          ],
+          [
+            -122.2960637,
+            47.4637521
+          ],
+          [
+            -122.2952557,
+            47.4636119
+          ],
+          [
+            -122.2943459,
+            47.4635248
+          ]
+        ]
+      },
+      "id": "way/133397784"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/428056685",
+        "bicycle": "no",
+        "highway": "motorway",
+        "lanes": "3",
+        "maxspeed": "60 mph",
+        "oneway": "yes",
+        "ref": "WA 518",
+        "surface": "asphalt",
+        "tiger:cfcc": "A11",
+        "tiger:county": "King, WA",
+        "tiger:name_base": "State Route 518",
+        "turn:lanes": "||merge_to_left"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.2967693,
+            47.4640918
+          ],
+          [
+            -122.2971664,
+            47.4642106
+          ],
+          [
+            -122.297735,
+            47.4644273
+          ],
+          [
+            -122.2984101,
+            47.4647469
+          ]
+        ]
+      },
+      "id": "way/428056685"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/428062728",
+        "expressway": "yes",
+        "highway": "trunk",
+        "lanes": "4",
+        "maxspeed": "35 mph",
+        "name": "State Route 518",
+        "oneway": "yes",
+        "ref": "WA 518",
+        "surface": "asphalt",
+        "turn:lanes": "left|left|through|through"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.3309729,
+            47.4703357
+          ],
+          [
+            -122.3311035,
+            47.4703505
+          ]
+        ]
+      },
+      "id": "way/428062728"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/428062729",
+        "expressway": "yes",
+        "highway": "trunk",
+        "lanes": "2",
+        "maxspeed": "35 mph",
+        "name": "State Route 518",
+        "oneway": "yes",
+        "ref": "WA 518",
+        "surface": "asphalt",
+        "tiger:cfcc": "A11",
+        "tiger:county": "King, WA",
+        "tiger:name_base": "State Route 518"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.332285,
+            47.4704975
+          ],
+          [
+            -122.3325871,
+            47.4705377
+          ]
+        ]
+      },
+      "id": "way/428062729"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/428062730",
+        "expressway": "yes",
+        "highway": "trunk",
+        "lanes": "4",
+        "maxspeed": "35 mph",
+        "name": "State Route 518",
+        "oneway": "yes",
+        "ref": "WA 518",
+        "surface": "asphalt",
+        "tiger:cfcc": "A11",
+        "tiger:county": "King, WA",
+        "tiger:name_base": "State Route 518",
+        "turn:lanes": "|||right"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.3325871,
+            47.4705377
+          ],
+          [
+            -122.3327927,
+            47.4705557
+          ],
+          [
+            -122.3329775,
+            47.4705656
+          ]
+        ]
+      },
+      "id": "way/428062730"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/428062731",
+        "expressway": "yes",
+        "highway": "trunk",
+        "lanes": "5",
+        "maxspeed": "35 mph",
+        "name": "State Route 518",
+        "oneway": "yes",
+        "ref": "WA 518",
+        "surface": "asphalt",
+        "tiger:cfcc": "A11",
+        "tiger:county": "King, WA",
+        "tiger:name_base": "State Route 518",
+        "turn:lanes": "left|left|||right"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.3329775,
+            47.4705656
+          ],
+          [
+            -122.3330816,
+            47.4705712
+          ],
+          [
+            -122.3335934,
+            47.4705764
+          ],
+          [
+            -122.333684,
+            47.4705737
+          ],
+          [
+            -122.333785,
+            47.4705718
+          ]
+        ]
+      },
+      "id": "way/428062731"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/428062732",
+        "bicycle": "yes",
+        "highway": "motorway",
+        "lanes": "2",
+        "maxspeed": "60 mph",
+        "oneway": "yes",
+        "ref": "WA 518",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.3238298,
+            47.4700099
+          ],
+          [
+            -122.3256711,
+            47.4699478
+          ]
+        ]
+      },
+      "id": "way/428062732"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/428062733",
+        "bicycle": "yes",
+        "destination:lanes": "Des Moines||Seattle",
+        "highway": "motorway",
+        "lanes": "3",
+        "maxspeed": "35 mph",
+        "oneway": "yes",
+        "ref": "WA 518",
+        "surface": "asphalt",
+        "turn:lanes": "||slight_right"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.3271467,
+            47.4699716
+          ],
+          [
+            -122.328115,
+            47.4700519
+          ]
+        ]
+      },
+      "id": "way/428062733"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/428094145",
+        "bicycle": "yes",
+        "fixme": "verify bicycle=yes",
+        "highway": "motorway",
+        "lanes": "3",
+        "maxspeed": "60 mph",
+        "oneway": "yes",
+        "ref": "WA 518",
+        "surface": "asphalt",
+        "turn:lanes": "none|none|right"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.3036672,
+            47.4668032
+          ],
+          [
+            -122.3028154,
+            47.4664664
+          ]
+        ]
+      },
+      "id": "way/428094145"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/428094146",
+        "bicycle": "yes",
+        "highway": "motorway",
+        "lanes": "3",
+        "maxheight": "default",
+        "maxspeed": "60 mph",
+        "oneway": "yes",
+        "ref": "WA 518",
+        "surface": "asphalt",
+        "tiger:cfcc": "A11",
+        "tiger:county": "King, WA",
+        "tiger:name_base": "State Route 518",
+        "turn:lanes": "||through"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.306795,
+            47.4685798
+          ],
+          [
+            -122.3098859,
+            47.4696248
+          ]
+        ]
+      },
+      "id": "way/428094146"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/428094147",
+        "bicycle": "yes",
+        "destination:lanes": "Renton|Renton|Seattle-Tacoma International Airport",
+        "fixme": "verify bicycle=yes",
+        "highway": "motorway",
+        "lanes": "3",
+        "maxspeed": "60 mph",
+        "oneway": "yes",
+        "ref": "WA 518",
+        "surface": "asphalt",
+        "turn:lanes": "||right"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.3004277,
+            47.465478
+          ],
+          [
+            -122.299884,
+            47.4652363
+          ]
+        ]
+      },
+      "id": "way/428094147"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/428094148",
+        "bicycle": "yes",
+        "destination:lanes": "none|Seattle|Des Moines Memorial Drive",
+        "highway": "motorway",
+        "lanes": "3",
+        "maxspeed": "60 mph",
+        "oneway": "yes",
+        "ref": "WA 518",
+        "surface": "asphalt",
+        "tiger:cfcc": "A11",
+        "tiger:county": "King, WA",
+        "tiger:name_base": "State Route 518",
+        "turn:lanes": "||slight_right"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.3128375,
+            47.4703579
+          ],
+          [
+            -122.313091,
+            47.4703885
+          ],
+          [
+            -122.3135411,
+            47.4704191
+          ],
+          [
+            -122.3139723,
+            47.4704298
+          ]
+        ]
+      },
+      "id": "way/428094148"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/428094149",
+        "bicycle": "yes",
+        "highway": "motorway",
+        "lanes": "4",
+        "maxspeed": "60 mph",
+        "oneway": "yes",
+        "ref": "WA 518",
+        "surface": "asphalt",
+        "tiger:cfcc": "A11",
+        "tiger:county": "King, WA",
+        "tiger:name_base": "State Route 518"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.3046356,
+            47.4675551
+          ],
+          [
+            -122.3051823,
+            47.4678462
+          ]
+        ]
+      },
+      "id": "way/428094149"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/428094150",
+        "bicycle": "yes",
+        "highway": "motorway",
+        "lanes": "2",
+        "maxheight": "default",
+        "maxspeed": "60 mph",
+        "oneway": "yes",
+        "ref": "WA 518",
+        "surface": "asphalt",
+        "tiger:cfcc": "A11",
+        "tiger:county": "King, WA",
+        "tiger:name_base": "State Route 518"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.3139723,
+            47.4704298
+          ],
+          [
+            -122.3142856,
+            47.4704026
+          ],
+          [
+            -122.3145776,
+            47.4703904
+          ],
+          [
+            -122.3152272,
+            47.4703569
+          ],
+          [
+            -122.3183532,
+            47.4702405
+          ]
+        ]
+      },
+      "id": "way/428094150"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/428266135",
+        "bicycle": "no",
+        "highway": "motorway",
+        "lanes": "2",
+        "maxspeed": "60 mph",
+        "oneway": "yes",
+        "ref": "WA 518",
+        "surface": "concrete"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.2682664,
+            47.4622047
+          ],
+          [
+            -122.2677892,
+            47.4619473
+          ]
+        ]
+      },
+      "id": "way/428266135"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/428266136",
+        "bicycle": "no",
+        "highway": "motorway",
+        "lanes": "2",
+        "maxspeed": "60 mph",
+        "oneway": "yes",
+        "ref": "WA 518",
+        "surface": "concrete",
+        "turn:lanes": "|right"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.268635,
+            47.4624034
+          ],
+          [
+            -122.2682664,
+            47.4622047
+          ]
+        ]
+      },
+      "id": "way/428266136"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/428266137",
+        "bicycle": "no",
+        "destination:lanes": "Renton|Tacoma;Portland",
+        "highway": "motorway",
+        "lanes": "2",
+        "maxspeed": "60 mph",
+        "oneway": "yes",
+        "ref": "WA 518",
+        "surface": "concrete",
+        "turn:lanes": "slight_left|slight_right"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.2677892,
+            47.4619473
+          ],
+          [
+            -122.2676889,
+            47.4618932
+          ]
+        ]
+      },
+      "id": "way/428266137"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/428292661",
+        "bicycle": "no",
+        "highway": "motorway",
+        "lanes": "4",
+        "lit": "yes",
+        "maxspeed": "60 mph",
+        "oneway": "yes",
+        "ref": "WA 518",
+        "source": "Yahoo",
+        "surface": "asphalt",
+        "turn:lanes": "|||merge_to_left"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.2878917,
+            47.4631321
+          ],
+          [
+            -122.2874907,
+            47.4630663
+          ],
+          [
+            -122.2866638,
+            47.4629306
+          ]
+        ]
+      },
+      "id": "way/428292661"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/451774149",
+        "expressway": "yes",
+        "highway": "trunk",
+        "lanes": "2",
+        "name": "State Route 518",
+        "oneway": "yes",
+        "ref": "WA 518",
+        "surface": "asphalt",
+        "tiger:cfcc": "A11",
+        "tiger:county": "King, WA",
+        "tiger:name_base": "State Route 518"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.333785,
+            47.4704442
+          ],
+          [
+            -122.333673,
+            47.470441
+          ],
+          [
+            -122.3335903,
+            47.4704402
+          ],
+          [
+            -122.3333357,
+            47.4704323
+          ],
+          [
+            -122.3332884,
+            47.4704309
+          ]
+        ]
+      },
+      "id": "way/451774149"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/531810258",
+        "bicycle": "no",
+        "destination": "Renton;Tacoma;Portland",
+        "destination:ref": "I 405 North;I 5 South",
+        "highway": "motorway",
+        "lanes": "2",
+        "maxspeed": "60 mph",
+        "oneway": "yes",
+        "ref": "WA 518",
+        "surface": "concrete"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.2701869,
+            47.4632403
+          ],
+          [
+            -122.268635,
+            47.4624034
+          ]
+        ]
+      },
+      "id": "way/531810258"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/621396778",
+        "bridge": "yes",
+        "expressway": "yes",
+        "highway": "trunk",
+        "lanes": "2",
+        "layer": "1",
+        "maxweight:signed": "no",
+        "name": "State Route 518",
+        "oneway": "yes",
+        "ref": "WA 518",
+        "surface": "concrete",
+        "tiger:cfcc": "A11",
+        "tiger:county": "King, WA",
+        "tiger:name_base": "State Route 518"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.3317085,
+            47.4703007
+          ],
+          [
+            -122.33113,
+            47.4702381
+          ]
+        ]
+      },
+      "id": "way/621396778"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/623957740",
+        "bicycle": "no",
+        "highway": "motorway",
+        "lanes": "3",
+        "lit": "yes",
+        "maxspeed": "60 mph",
+        "oneway": "yes",
+        "ref": "WA 518",
+        "source": "Yahoo",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.2831282,
+            47.4630859
+          ],
+          [
+            -122.282915,
+            47.4631626
+          ],
+          [
+            -122.2826736,
+            47.4632473
+          ],
+          [
+            -122.2823254,
+            47.4634072
+          ],
+          [
+            -122.2820003,
+            47.46358
+          ],
+          [
+            -122.2814687,
+            47.4639133
+          ]
+        ]
+      },
+      "id": "way/623957740"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/623957741",
+        "bicycle": "no",
+        "highway": "motorway",
+        "lanes": "3",
+        "lit": "yes",
+        "maxspeed": "60 mph",
+        "oneway": "yes",
+        "ref": "WA 518",
+        "source": "Yahoo,TIGER",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.2814679,
+            47.4640804
+          ],
+          [
+            -122.2823042,
+            47.463626
+          ]
+        ]
+      },
+      "id": "way/623957741"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/879762430",
+        "bicycle": "no",
+        "destination:lanes": "Seattle|Renton|Tacoma;Portland",
+        "highway": "motorway",
+        "lanes": "3",
+        "maxheight": "default",
+        "maxspeed": "60 mph",
+        "oneway": "yes",
+        "ref": "WA 518",
+        "surface": "concrete",
+        "turn:lanes": "slight_left|none|none"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.2733593,
+            47.4648826
+          ],
+          [
+            -122.2725707,
+            47.4644997
+          ],
+          [
+            -122.2701869,
+            47.4632403
+          ]
+        ]
+      },
+      "id": "way/879762430"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/880158669",
+        "bicycle": "yes",
+        "highway": "motorway",
+        "lanes": "2",
+        "maxspeed": "60 mph",
+        "oneway": "yes",
+        "ref": "WA 518",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.326333,
+            47.4697992
+          ],
+          [
+            -122.3238202,
+            47.4699005
+          ]
+        ]
+      },
+      "id": "way/880158669"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/880158670",
+        "bicycle": "yes",
+        "destination:lanes": "|none;Des Moines;Memorial Drive|Des Moines;Memorial Drive",
+        "highway": "motorway",
+        "lanes": "3",
+        "maxspeed": "60 mph",
+        "oneway": "yes",
+        "ref": "WA 518",
+        "surface": "asphalt",
+        "turn:lanes": "|through;slight_right|slight_right"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.3282971,
+            47.4699468
+          ],
+          [
+            -122.3278809,
+            47.4699005
+          ],
+          [
+            -122.32737,
+            47.4698531
+          ],
+          [
+            -122.3269156,
+            47.4698233
+          ],
+          [
+            -122.3265355,
+            47.4698076
+          ],
+          [
+            -122.326333,
+            47.4697992
+          ]
+        ]
+      },
+      "id": "way/880158670"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/882709998",
+        "bicycle": "yes",
+        "highway": "motorway",
+        "lanes": "3",
+        "maxspeed": "60 mph",
+        "oneway": "yes",
+        "ref": "WA 518",
+        "surface": "asphalt",
+        "tiger:cfcc": "A11",
+        "tiger:county": "King, WA",
+        "tiger:name_base": "State Route 518"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.3051823,
+            47.4678462
+          ],
+          [
+            -122.3058114,
+            47.4681811
+          ],
+          [
+            -122.3064852,
+            47.4684751
+          ],
+          [
+            -122.306795,
+            47.4685798
+          ]
+        ]
+      },
+      "id": "way/882709998"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/882712699",
+        "bicycle": "yes",
+        "highway": "motorway",
+        "lanes": "2",
+        "maxheight": "default",
+        "maxspeed": "60 mph",
+        "oneway": "yes",
+        "ref": "WA 518",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.3184765,
+            47.4701193
+          ],
+          [
+            -122.3146805,
+            47.4702784
+          ],
+          [
+            -122.3140881,
+            47.4702679
+          ],
+          [
+            -122.3136064,
+            47.470236
+          ]
+        ]
+      },
+      "id": "way/882712699"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/970569724",
+        "bicycle": "no",
+        "destination:lanes": "Burien|Burien|Burien;Tukwila International Boulevard Station;Seattle-Tacoma International Airport;Rental Car Return;State Patrol|Tukwila International Boulevard Station;Seattle-Tacoma International Airport;Rental Car Return;State Patrol",
+        "highway": "motorway",
+        "lanes": "4",
+        "lit": "yes",
+        "maxspeed": "60 mph",
+        "oneway": "yes",
+        "ref": "WA 518",
+        "source": "Yahoo,TIGER",
+        "surface": "asphalt",
+        "turn:lanes": "none|none|through;slight_right|slight_right"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.2823042,
+            47.463626
+          ],
+          [
+            -122.2823489,
+            47.4636017
+          ],
+          [
+            -122.2826582,
+            47.4634559
+          ],
+          [
+            -122.2830026,
+            47.4633235
+          ],
+          [
+            -122.2832642,
+            47.4632384
+          ],
+          [
+            -122.2834921,
+            47.4631817
+          ]
+        ]
+      },
+      "id": "way/970569724"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/987648570",
+        "expressway": "yes",
+        "highway": "trunk",
+        "lanes": "3",
+        "name": "State Route 518",
+        "oneway": "yes",
+        "ref": "WA 518",
+        "surface": "asphalt",
+        "tiger:cfcc": "A11",
+        "tiger:county": "King, WA",
+        "tiger:name_base": "State Route 518"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.3332884,
+            47.4704309
+          ],
+          [
+            -122.3330532,
+            47.4704242
+          ],
+          [
+            -122.3326816,
+            47.4703977
+          ],
+          [
+            -122.3324603,
+            47.4703755
+          ],
+          [
+            -122.332303,
+            47.4703596
+          ]
+        ]
+      },
+      "id": "way/987648570"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1177119861",
+        "bicycle": "no",
+        "highway": "motorway",
+        "lanes": "3",
+        "maxspeed": "60 mph",
+        "oneway": "yes",
+        "ref": "WA 518",
+        "surface": "concrete"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.2724786,
+            47.4646039
+          ],
+          [
+            -122.2733197,
+            47.4650507
+          ],
+          [
+            -122.2739065,
+            47.46535
+          ]
+        ]
+      },
+      "id": "way/1177119861"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1177119862",
+        "bicycle": "no",
+        "highway": "motorway",
+        "lanes": "4",
+        "maxspeed": "60 mph",
+        "oneway": "yes",
+        "ref": "WA 518",
+        "surface": "concrete",
+        "turn:lanes": "|||merge_to_right"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.2739065,
+            47.46535
+          ],
+          [
+            -122.2743581,
+            47.4655084
+          ],
+          [
+            -122.2748234,
+            47.4656469
+          ],
+          [
+            -122.2751311,
+            47.4657135
+          ],
+          [
+            -122.2755498,
+            47.4657831
+          ],
+          [
+            -122.2758328,
+            47.4658241
+          ]
+        ]
+      },
+      "id": "way/1177119862"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1253464836",
+        "expressway": "yes",
+        "highway": "trunk",
+        "lanes": "3",
+        "name": "State Route 518",
+        "oneway": "yes",
+        "ref": "WA 518",
+        "surface": "asphalt",
+        "tiger:cfcc": "A11",
+        "tiger:county": "King, WA",
+        "tiger:name_base": "State Route 518"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.332303,
+            47.4703596
+          ],
+          [
+            -122.3320839,
+            47.4703399
+          ]
+        ]
+      },
+      "id": "way/1253464836"
+    }
+  ]
+}
